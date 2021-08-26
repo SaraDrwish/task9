@@ -1,0 +1,59 @@
+body{
+    padding: 0px;
+    margin: 0px;
+}
+.contant{
+background-color: rgb(7, 6, 6);
+
+}
+
+.imge{
+    width: 1500px;
+    height: 1500px;
+    background-image:url(http://www.engage.veented.com/business-2/wp-content/uploads/sites/127/2017/08/business-2.jpg?id=961) ;
+    background-repeat: no-repeat;
+    opacity: 0.3;
+    
+}
+
+.text{
+    margin: 266px;
+    /* margin: auto; */
+    width: 900px;
+    text-align: center;
+    /* font-size:50px ; */
+    color: white;
+
+}
+ /* p{
+    text-align: center;
+    font-size:50px ;
+    color: white;
+} */
+
+.nav{
+    width: 80%;
+    margin: auto;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgba(41, 38, 38,.1);
+  }
+  
+  li {
+    float: right;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align:center;
+    padding: 18px 20px;
+    text-decoration: none;
+  }
+  
+ 
