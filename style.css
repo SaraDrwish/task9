@@ -2,6 +2,143 @@ body{
     padding: 0px;
     margin: 0px;
 }
+
+.cover{
+  background-image: url(http://www.engage.veented.com/business-2/wp-content/uploads/sites/127/2017/08/business-2.jpg?id=961);
+  width: 100%;
+  height: 800px;
+  background-size: cover;
+  position: relative;
+  /* top: 0px; */
+
+}
+
+.overlay{
+  background-color:rgba(0, 0, 0,.7);
+  width: 100%;
+  height: 100%;
+  position: absolute;
+}
+
+.nav_container {
+  margin: auto 99px;
+  /* background-color: yellow; */
+  position: fixed;
+  top: 0%;
+  width: 81%;
+  height: 88px;
+ 
+
+}
+
+/* .nav_container .nav{
+  margin-left: 88px;
+  background-color: rgb(42, 42, 22);
+
+} */
+
+ul {
+  list-style-type: none;
+  /* margin: 0;
+  padding: 0;
+  overflow: hidden; */
+  background-color: rgba(41, 38, 38,.1);
+}
+
+li {
+  float: right;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align:center;
+  padding: 18px 20px;
+  text-decoration: none;
+}
+.contact-box-top{
+  border-top: solid #4caf50;
+}
+
+.contact-box a{
+background-color: white;
+color: black;
+border-radius: 4px;
+
+}
+.contact-box :hover{
+  color: white;
+  background-color:#4caf50 ;
+}
+ .nav_img{
+width: 133px;
+height: 33px;
+margin-top: 22px;
+
+}
+
+.nav div{
+  width: 55px;
+  height: 9px; 
+}
+
+.contant{
+  width: 70%;
+  height: 50%;
+  margin: 370px auto 10px auto;
+  /* background-color:gray; */
+  /* position: relative; */
+}
+
+.contant h3 {
+text-align: center;
+color: aliceblue;
+font-weight: lighter;
+/* background-color: aquamarine; */
+/* position: absolute; */
+
+}
+.contant p {
+  /* background-color:aqua ; */
+  color: aliceblue;
+  font-size: 55px;
+  text-align: center;
+
+}
+
+.contant a{
+  margin: 44%;
+}
+.contant a .btn{
+  background-color: #4caf50;
+  color: white;
+  font-size: 14px;
+  font-weight: bolder;
+  padding: 18px 28px;
+  border-radius: 7px;
+  border-style: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* 
 .contant{
 background-color: rgb(7, 6, 6);
 
@@ -18,42 +155,12 @@ background-color: rgb(7, 6, 6);
 
 .text{
     margin: 266px;
-    /* margin: auto; */
     width: 900px;
     text-align: center;
-    /* font-size:50px ; */
     color: white;
 
 }
- /* p{
-    text-align: center;
-    font-size:50px ;
-    color: white;
-} */
 
-.nav{
-    width: 80%;
-    margin: auto;
-}
 
-ul {
-    list-style-type: none;
-    margin: 0;
-    padding: 0;
-    overflow: hidden;
-    background-color: rgba(41, 38, 38,.1);
-  }
-  
-  li {
-    float: right;
-  }
-  
-  li a {
-    display: block;
-    color: white;
-    text-align:center;
-    padding: 18px 20px;
-    text-decoration: none;
-  }
-  
+   */
  
